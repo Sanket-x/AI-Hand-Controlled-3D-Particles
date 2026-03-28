@@ -32,23 +32,3 @@ Open hand → higher tension → particles expand
 Closed hand → lower tension → particles contract
 
 When no hand is detected, the system switches to an autonomous animation mode.
-
-Setup and Usage
-Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
-Open the project:
-Open index.html directly in a browser, or
-Use a local server (recommended, e.g., VS Code Live Server)
-Requirements
-A device with a camera
-Camera permission enabled in browser
-Modern browser (Chrome recommended)
-Controls
-Move your hand to interact with particles
-Adjust hand openness to control particle spread
-Use the on-screen panel to switch shapes and colors
-Future Improvements
-Gesture-based shape switching
-Mobile optimization
-Audio-reactive particle behavior
-VR/AR integration
